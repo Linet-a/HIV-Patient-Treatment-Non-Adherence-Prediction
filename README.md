@@ -1,3 +1,7 @@
+## 🧭 Project Overview
+
+![Dashboard Preview](https://www.health.com/thmb/ZfScbeh01OfkWVlmfrV0aU-hwRQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hiv-diagnosis-GettyImages-1401899005-12069d2c6ff14b34aa8c18bbff59e0e3.jpg)
+
 # HIV Patient Treatment Non-Adherence Prediction
 
 This project explores **treatment non-adherence among HIV patients** using real-world data provided by **Kasha**.  
