@@ -32,7 +32,7 @@ The **HIV Patient Treatment Non-Adherence Prediction** system is designed to:
   Visual summaries of adherence trends and demographic distributions.
 
 - 🤖 **Machine Learning Model:**  
-  A predictive model (e.g., Random Forest / XGBoost) trained to classify adherence vs. non-adherence.
+  A predictive model (Random Forest) trained to classify adherence vs. non-adherence.
 
 - 🔍 **Explainability with SHAP:**  
   SHAP (SHapley Additive exPlanations) is used to:
@@ -41,7 +41,7 @@ The **HIV Patient Treatment Non-Adherence Prediction** system is designed to:
   - Improve transparency and trust for medical stakeholders.
 
 - 💬 **LLM-Based Stakeholder Support (Future Phase):**  
-  Integrate an LLM (such as GPT or LLaMA) to:
+  Integrate an LLM (GPT) to:
   - Translate data insights into simple narratives.  
   - Support decision-making through conversational Q&A.  
   - Generate policy briefs or stakeholder summaries directly from model outputs.
